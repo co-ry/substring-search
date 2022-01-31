@@ -14,4 +14,4 @@ def print_test(dictionary, word)
         end
 end
 
-print_test(dictionary, "below")
+print_test(dictionary, "down")
